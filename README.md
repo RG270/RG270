@@ -1,4 +1,7 @@
-### RISHABH GUPTA 
+### RISHABH GUPTA
+Bachelor of Technology, 2021
+Computer Science and Engineering
+NIT Uttarakhand
 
 
 <!--
